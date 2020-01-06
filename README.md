@@ -1,6 +1,6 @@
 # Homework 14
 
-You have one week to complete these problems. Complete them to the best of your ability and then submit them. Make sure your code works (compiles, runs, and passes the initial checks) before you submit it. You can always resubmit up until the deadline, but you will not receive any credit if your code does not run.
+You have one week to complete these problems. Complete them to the best of your ability and then submit them. Make sure your code works (compiles, runs, and passes the initial checks) before you submit it. You can always resubmit up until the deadline, but you will not receive any credit if your code does not run. You may want to familiarize yourself with the Rectangle class (https://docs.oracle.com/javase/7/docs/api/java/awt/Rectangle.html).
 
 ## Skills
 
